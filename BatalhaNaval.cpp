@@ -29,7 +29,7 @@ public:
 	}
 };
 
-void mostraTabulerio(char matriz[][]);
+void mostraTabulerio(char matriz[TAM][TAM]);
 
 int main(){
 	Jogador jogador1;
